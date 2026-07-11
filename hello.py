@@ -1,0 +1,2 @@
+print("CodeMate is alive")
+
