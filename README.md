@@ -12,7 +12,9 @@ A personal coding assistant that runs a free, open-source AI model (qwen3 8B) en
 - `llm_call.py` — the first working piece: a Python script that sends a
   prompt to a locally running model and prints the response. This is the
   core request/response loop everything else builds on.
-  *(more files will be added and described here as the project grows)*
+- 'weather.py' - this script fetches live weather from public API (Open-Meteo) and pulls the temperature out of the response.
+  
+  *(more files will be added and described here as the project grows)
 
 ## Running this yourself
 
