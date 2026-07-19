@@ -1,6 +1,6 @@
 # Codemate
 
-I'm learning Python, how LLms work, and basic web development - by building a coding assistant from scratch, in public, starting from zero coding experience. ( Actually worked and tinkered with hardware for awhile when I was programming lidar sensors 'I have some experience xd')
+I'm learning Python, how LLMs work, and basic web development - by building a coding assistant from scratch, in public, starting from zero coding experience. ( Actually worked and tinkered with hardware for awhile when I was programming lidar sensors 'I have some experience xd')
 This repo is my learning log as much as it's an app. Each Commit is a step in that process, not a polished release.
 
 ## What this is
